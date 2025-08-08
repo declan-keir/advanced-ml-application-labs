@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_13608753"
-version = "0.1.1"
+version = "0.1.2"
 description = "Custom ML package for UTS Advanced ML lab 2"
 authors = ["Declan Keir"]
 license = "None"
